@@ -1,0 +1,11 @@
+/*phoneRules(v) {
+            if (!phone.length) {
+              'This field is required.';
+            }
+            if (!phone.match(/^[+][(]?[0-9]{1,3}[)]?[-\s.]?[0-9]{3}[-\s.]?[0-9]{4,7}$/gm)) {
+              return 'Please, enter a valid international phone number.';
+            }
+          
+            return true;
+        },
+        */

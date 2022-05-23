@@ -1,0 +1,109 @@
+{
+  "notifications": {
+    "authentication": "Authenticating...",
+    "offline": "Please check your connection, login feature is not available offline."
+  },
+  "pages": {
+    "home": {
+      "title": "Book a table in your favorite restaurant!",
+      "subtitle": "Give us your address and we will find something in your area"
+    },
+    "login": {
+      "socialsLoginInfo": "Sign in with",
+      "forgetPassword": "Forgot password?",
+      "signInInfo": "By clicking Sign In, you agree to our Terms.",
+      "signUpInfo": " Dont have an account?",
+      "footer": "Privacy Policy | Cookies",
+      "labels": {
+        "Email": "E-mail",
+        "Password": "Password"
+      },
+      "buttons": {
+        "signUp": "Sign Up",
+        "logIn": "Log in",
+        "sendRestartPassword": "Send",
+        "backFromRestartPassword": "Back"
+      }
+    },
+    "register": {
+      "socialsLoginInfo": "Sign up with",
+      "forgetPassword": "Forgot password?",
+      "signInInfo": "By clicking Sign In, you agree to our Terms.",
+      "signUpInfo": "You have an account?",
+      "footer": "Privacy Policy | Cookies",
+      "labels": {
+        "name": "Name",
+        "Email": "E-mail",
+        "Password": "Password",
+        "confirmPassword": "Confirm password"
+      },
+      "buttons": {
+        "signUp": "Sign Up",
+        "signIn": "Sign in"
+      }
+    },
+    "restaurant": {
+      "Restaurant": "Restaurant",
+      "restaurantAdress": "Adress",
+      "restaurantSeats": "Seats",
+      "restaurantRating": "Rating",
+      "buttons": {
+        "sortRestaurntByName": "By restaurant name",
+        "sortRestaurntByRating": "By rating",
+        "sortRestaurntBySeats": "Only free"
+      },
+      "tooltips": {
+        "sortRestaurntByName": "Sort by restaurant name",
+        "sortRestaurntByRating": "Sort by rating restaurant",
+        "sortRestaurntBySeats": "choose only free restaurants"
+      }
+    },
+    "navbar": {
+      "appTitle": "eTable",
+      "home": "Home",
+      "login": "Log in",
+      "listOfRestaurants": "Restaurants",
+      "logout": "Log out"
+    },
+    "rules": {
+      "required": "This field is required",
+      "validEmail": "Please, enter a valid email",
+      "shortPassword": "Password is too short",
+      "validPassword": "Password must contain at least lowercase letter, one number, a special character and one uppercase letter",
+      "passwordMatch": "Password must match",
+      "validPhoneNumber": "Please, enter a valid phone number",
+      "validNip": "Please, enter a valid phone number tax number"
+    },
+    "addRestaurant": {
+      "labels": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "restaurantName": "Restaurant Name",
+        "nip": "NIP",
+        "Email": "E-mail",
+        "phone": "Phone number",
+        "Password": "Password",
+        "confirmPassword": "Confirm password",
+        "streetAndNumber": "Street",
+        "postalCode": "Zip",
+        "city": "City",
+        "country": "Country"
+      },
+      "buttons":{
+        "addRestaurant": "Add Restaurant"
+      },
+      "details":{
+      "contact": "Contact Details:",
+      "restaurant": "Restaurant Details:"
+      }
+    },
+    "yourReservations": {
+      "Restaurant": "Restaurant",
+      "restaurantAdress": "Adress",
+      "chooseSeats": "Choosed seats",
+      "restaurantRating": "Rating",
+      "hour": "Hour",
+      "date": "Date"
+    }
+  }
+}
